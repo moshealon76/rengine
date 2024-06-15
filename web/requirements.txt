@@ -37,3 +37,6 @@ whatportis
 weasyprint==53.3
 wafw00f==2.2.0
 xmltodict==0.13.0
+certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
+pillow>=9.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
